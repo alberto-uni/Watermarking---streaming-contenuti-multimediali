@@ -7,10 +7,9 @@ invisible video watermarking con spiegazione - algoritmo 2-bit Least Significant
 
 Digital Wm e sound WM - analisi generica del watermarking sulla comunicazione real time
 
-real time BT.656 video stream X
+real time BT.656 video stream - watermark pattern per video dello standard bt.656 utlizzabile per video stream
 
-server-guided watermarking and set-top box watermarking(audio wm) X
-
+server-guided watermarking and set-top box watermarking - 
 forensic video watermarking X
 
 wm tv stream (gud) X
