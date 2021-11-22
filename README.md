@@ -45,3 +45,5 @@ https://www.monitor-radiotv.it/w/la-rai-e-la-prima-emittente-in-chiaro-a-utilizz
 
 https://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/search-bool.html&r=1&f=G&l=50&d=PALL&RefSrch=yes&Query=PN/10834158
 Brevetto amazon (da guardare meglio perchè su questo sito è complesso)
+
+https://www.ilgiornale.it/news/sport/dazn-ecco-cos-codice-che-appare-durante-partite-1987594.html
