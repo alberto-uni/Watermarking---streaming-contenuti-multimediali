@@ -5,7 +5,7 @@ intro video streaming - introduzione al video watermarking proposta dall'azienda
 
 invisible video watermarking con spiegazione - algoritmo 2-bit Least Significant Bit(lsb) per generare un watermark invisibile mantenendo una buona efficienza a livello di performance
 
-Digital Wm e sound WM 
+Digital Wm e sound WM - analisi generica del watermarking sulla comunicazione real time
 
 real time BT.656 video stream X
 
