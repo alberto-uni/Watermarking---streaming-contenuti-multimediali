@@ -1,8 +1,7 @@
 # Watermarking---streaming-contenuti-multimediali
 
 
-intro video streaming X
-
+intro video streaming - introduzione al video watermarking proposta dall'azienda markAny
 
 invisible video watermarking con spiegazione INTERESSANTE X
 
