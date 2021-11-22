@@ -9,8 +9,9 @@ Digital Wm e sound WM - analisi generica del watermarking sulla comunicazione re
 
 real time BT.656 video stream - watermark pattern per video dello standard bt.656 utlizzabile per video stream
 
-server-guided watermarking and set-top box watermarking - 
-forensic video watermarking X
+server-guided watermarking and set-top box watermarking - vengono proposti due algoritmi di forensic watermarking per il digital video broadcasting applicati sulla traccia audio, Server guided e set-top box
+
+forensic video watermarking 
 
 wm tv stream (gud) X
 
