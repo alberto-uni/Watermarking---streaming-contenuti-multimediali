@@ -26,9 +26,8 @@ real time wm h264 - algoritmo a bassa complessità per ip-tv e tv streaming
 
     link esterni
 
-https://www.mediametrie.fr/en/watermarking-technological-innovation-television-audience-measurement -algoritmo francese
+https://www.mediametrie.fr/en/watermarking-technological-innovation-television-audience-measurement -algoritmo utilizzato da un'emittente televisiva francese attraverso il segnale audio
 
-https://dtv.nagra.com/nexguard-forensic-watermarking -algoritmo che usa la rai
 
 https://www.mdpi.com/2076-3417/8/10/1891/html -buono un poò di intro
 
