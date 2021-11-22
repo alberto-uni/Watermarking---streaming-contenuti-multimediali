@@ -16,7 +16,7 @@ forensic video watermarking X
 
 wm tv stream (gud) X
 
-An Overview of Digital Video Watermarking (MOLTO BUONO) X
+An Overview of Digital Video Watermarking - watermarking su film distributi al cinema, online e in versione dvd
 
 Watermarking Algorithm for H.264 Video Sequences(forse utile, abbastanza specifico) X
 
