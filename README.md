@@ -29,7 +29,7 @@ real time wm h264 - algoritmo a bassa complessità per ip-tv e tv streaming
 https://www.mediametrie.fr/en/watermarking-technological-innovation-television-audience-measurement -algoritmo utilizzato da un'emittente televisiva francese attraverso il segnale audio
 
 
-https://www.mdpi.com/2076-3417/8/10/1891/html -buono un poò di intro
+https://www.mdpi.com/2076-3417/8/10/1891/html - paper che spiega alcuni algortitmi di watermarking per video in streaming, basati sui video originali o su quelli compressi
 
 https://www.amazon.science/blog/audio-watermarking-algorithm-is-first-to-solve-second-screen-problem-in-real-time -buono suono 
 
