@@ -11,9 +11,9 @@ real time BT.656 video stream - watermark pattern per video dello standard bt.65
 
 server-guided watermarking and set-top box watermarking - vengono proposti due algoritmi di forensic watermarking per il digital video broadcasting applicati sulla traccia audio, Server guided e set-top box
 
-forensic video watermarking 
+forensic video watermarking - introduzione al forensic watermarking svolta dall'aziend Content Armor
 
-wm tv stream (gud) X
+wm tv stream -
 
 An Overview of Digital Video Watermarking - watermarking su film distributi al cinema, online e in versione dvd
 
