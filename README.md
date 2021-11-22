@@ -7,19 +7,19 @@ invisible video watermarking con spiegazione - algoritmo 2-bit Least Significant
 
 Digital Wm e sound WM - analisi generica del watermarking sulla comunicazione real time
 
-real time BT.656 video stream - watermark pattern per video dello standard bt.656 utlizzabile per video stream
+real time BT.656 video stream - watermark pattern per video dello standard bt.656 utilizzabile per video stream
 
-server-guided watermarking and set-top box watermarking - vengono proposti due algoritmi di forensic watermarking per il digital video broadcasting applicati sulla traccia audio, Server guided e set-top box
+server-guided watermarking and set-top box watermarking - vengono proposti due algoritmi di forensic watermarking per il digital video broadcasting applicati sulla traccia audio: Server guided e set-top box
 
-forensic video watermarking - introduzione al forensic watermarking svolta dall'aziend Content Armor
+forensic video watermarking - introduzione al forensic watermarking svolta dall'azienda Content Armor
 
 wm tv stream - algoritmo di watermarking per i contenuti televisivi in streaming (formato mpeg4)
 
-An Overview of Digital Video Watermarking - watermarking su film distributi al cinema, online e in versione dvd
+An Overview of Digital Video Watermarking - watermarking per film distributi al cinema, online e in versione dvd
 
-Watermarking Algorithm for H.264 Video Sequences - programma che inserisce un watermark in una sequenza video e ne riconosce la presenza (standar video h.264)
+Watermarking Algorithm for H.264 Video Sequences - programma che inserisce un watermark in una sequenza video e ne riconosce la presenza (standard video h.264)
 
-real time wm h264 - algoritmo che può tornare utile X
+real time wm h264 - algoritmo a bassa complessità per ip-tv e tv streaming
 
 
 
