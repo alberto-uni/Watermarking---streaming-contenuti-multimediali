@@ -1,6 +1,28 @@
 # Watermarking---streaming-contenuti-multimediali
 
 
+intro video streaming X
+
+video watermarking mpeg2 O
+
+invisible video watermarking con spiegazione INTERESSANTE X
+
+Digital Wm e sound WM 
+
+real time BT.656 video stream X
+
+server-guided watermarking and set-top box watermarking(audio wm) X
+
+forensic video watermarking X
+
+wm tv stream (gud) X
+
+An Overview of Digital Video Watermarking (MOLTO BUONO) X
+
+Watermarking Algorithm for H.264 Video Sequences(forse utile, abbastanza specifico) X
+
+real time wm h264 - algoritmo che può tornare utile X
+
 
 
 
