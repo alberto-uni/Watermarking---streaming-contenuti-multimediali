@@ -3,7 +3,7 @@
 
 intro video streaming - introduzione al video watermarking proposta dall'azienda markAny
 
-invisible video watermarking con spiegazione INTERESSANTE X
+invisible video watermarking con spiegazione - algoritmo 2-bit Least Significant Bit(lsb) per generare un watermark invisibile mantenendo una buona efficienza a livello di performance
 
 Digital Wm e sound WM 
 
