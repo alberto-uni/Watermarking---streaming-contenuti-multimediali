@@ -31,7 +31,7 @@ https://www.mediametrie.fr/en/watermarking-technological-innovation-television-a
 
 https://www.mdpi.com/2076-3417/8/10/1891/html - paper che spiega alcuni algortitmi di watermarking per video in streaming, basati sui video originali o su quelli compressi
 
-https://www.amazon.science/blog/audio-watermarking-algorithm-is-first-to-solve-second-screen-problem-in-real-time -buono suono 
+https://www.amazon.science/blog/audio-watermarking-algorithm-is-first-to-solve-second-screen-problem-in-real-time - algoritmo di audio watermarking proposto da amazon
 
 https://bitmovin.com/video-watermarking/ -spiegazione del watermarking ok
 
