@@ -3,7 +3,6 @@
 
 intro video streaming X
 
-video watermarking mpeg2 O
 
 invisible video watermarking con spiegazione INTERESSANTE X
 
