@@ -17,7 +17,7 @@ wm tv stream - algoritmo di watermarking per i contenuti televisivi in streaming
 
 An Overview of Digital Video Watermarking - watermarking su film distributi al cinema, online e in versione dvd
 
-Watermarking Algorithm for H.264 Video Sequences 
+Watermarking Algorithm for H.264 Video Sequences - programma che inserisce un watermark in una sequenza video e ne riconosce la presenza (standar video h.264)
 
 real time wm h264 - algoritmo che può tornare utile X
 
