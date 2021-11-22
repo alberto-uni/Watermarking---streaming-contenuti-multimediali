@@ -13,11 +13,11 @@ server-guided watermarking and set-top box watermarking - vengono proposti due a
 
 forensic video watermarking - introduzione al forensic watermarking svolta dall'aziend Content Armor
 
-wm tv stream -
+wm tv stream - algoritmo di watermarking per i contenuti televisivi in streaming (formato mpeg4)
 
 An Overview of Digital Video Watermarking - watermarking su film distributi al cinema, online e in versione dvd
 
-Watermarking Algorithm for H.264 Video Sequences(forse utile, abbastanza specifico) X
+Watermarking Algorithm for H.264 Video Sequences 
 
 real time wm h264 - algoritmo che può tornare utile X
 
